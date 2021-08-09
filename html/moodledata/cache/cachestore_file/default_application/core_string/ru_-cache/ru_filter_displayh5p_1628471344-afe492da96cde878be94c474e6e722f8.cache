@@ -1,0 +1,7 @@
+a:4:{s:18:"allowedsourceslist";s:41:"Разрешенные источники";s:22:"allowedsourceslistdesc";s:613:"Список URL-адресов, с которых пользователи могут встраивать контент H5P. Если ничего не указано, все URL-адреса останутся ссылками и не будут отображаться как встроенное содержимое H5P.
+
+«[id]» - это заполнитель для идентификатора контента H5P во внешнем источнике.
+Например:
+
+- H5P.com: https://[xxxxxx].h5p.com/content/[id]
+- Wordpress: http://myserver/wp-admin/admin-ajax.php?action=h5p_embed&id=[id]";s:10:"filtername";s:24:"Отображать H5P";s:16:"privacy:metadata";s:76:"Фильтр H5P не хранит никаких личных данных.";}

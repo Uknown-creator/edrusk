@@ -1,0 +1,1 @@
+a:4:{s:16:"glossarycategory";s:49:"{$a->glossary}: Категория {$a->category}";s:15:"glossaryconcept";s:29:"{$a->glossary}: {$a->concept}";s:10:"filtername";s:113:"Автоматическое создание ссылок на записи модуля «Глоссарий»";s:16:"privacy:metadata";s:132:"Плагин автосвязывания глоссария не хранит никаких персональных данных.";}
